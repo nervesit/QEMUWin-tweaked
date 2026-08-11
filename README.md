@@ -2,6 +2,8 @@
 
 ### A simple GUI for QEMU in Windows based in Python
 
+### Fork archived as it has already served its purpose
+
 QEMU is known for its versatility in creating virtual machines, especially on Linux. However, it's also a viable option on Windows for creating virtual machines with specific hardware.  
 
 On Linux, [virt-manager](https://github.com/virt-manager/virt-manager) is the most popular option for managing VMs, offering an intuitive and easy-to-use GUI. However, Windows lacks this feature, making QEMU primarily an option for advanced users... until now.  
